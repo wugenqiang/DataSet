@@ -1,6 +1,6 @@
 # DataSet
 🐥 DataSet to use, callable
-> https://wugenqiang.github.io/DataSet/
+> https://wugenqiang.github.io/DataSet/ 数据集仓库地址：https://github.com/wugenqiang/DataSet/
 
 数据集调用举例：
 ```python
